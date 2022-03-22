@@ -1,6 +1,6 @@
-#Data_Mining 互评作业1
+# Data_Mining 互评作业1
 
-####选取的数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016
+#### 选取的数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016
 
 
 **首先wine reviews数据集，处理过程如下**
